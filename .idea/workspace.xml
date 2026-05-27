@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b5628af2-7ea5-4a35-9f04-eff3c7a26a60" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/Atividades_Nelio.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Atividades_Nelio.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Curso_Nelio/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Nelio/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Curso_Nelio/src/Atividades_While/Exercicio1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Curso_Nelio/Secao6_Estruturas_Repetitivas/Exercicios_While/Exercicio1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Atividades_Nelio/Atividades_While/Exercicio1.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,15 +26,22 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="3B8a9by2jaUaNBiL7kkQ4xiWCBf" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exercicio1.executor": "Run",
+    "Application.Exercicio2.executor": "Run",
+    "Application.Exercicio3.executor": "Run",
     "Application.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",

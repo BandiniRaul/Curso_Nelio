@@ -1,4 +1,4 @@
-package Atividades_While;
+package Exercicios_While;
 
 import java.util.Scanner;
 
